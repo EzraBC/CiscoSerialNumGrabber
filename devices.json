@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "192.168.10.62",
+    "device_type": "cisco_ios"
+  },
+  {
+    "ip": "192.168.10.63"
+    "device_type": "cisco_ios"
+  },
+  {
+    "ip": "192.168.10.64"
+    "device_type": "cisco_ios"
+  }
+]
+
